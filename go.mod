@@ -48,7 +48,7 @@ require (
 	github.com/vektra/mockery/v2 v2.14.0
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
 	golang.org/x/net v0.0.0-20220617184016-355a448f1bc9
-	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
+	golang.org/x/sync v0.4.0
 	google.golang.org/grpc v1.48.0
 	gotest.tools v2.2.0+incompatible // indirect
 	pgregory.net/rapid v0.4.8
